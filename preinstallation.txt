@@ -1,0 +1,22 @@
+Overview:
+This project demonstrates an automated browser testing framework using Selenium WebDriver and ChromeDriver.
+It tackles version compatibility issues between Chrome and ChromeDriver, ensuring smooth automation workflows.
+
+Features:
+Dynamic Compatability Handling:Handles Chrome and ChromeDriver version mismatches effectively.
+Cross platform-support: Works seamlessly across Windows, macOS, and Linux systems.
+WebDriver Manager Integration: Automates the management and setup of ChromeDriver.
+Efficiency and Accuracy: Optimized for reliable and efficient browser testing.
+
+Requirements:
+Python (version X.X)
+Compatible Chrome version: 131.0.6778.205
+ChromeDriver version: 131.0.6778.204
+
+How to use:
+1.Clone this repository:
+git clone https://github.com/yourusername/automated-browser-testing.git
+2.Install the required dependencies:
+pip install -r requirements.txt
+3.Run the test script
+python test_script.py
